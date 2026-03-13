@@ -23,6 +23,7 @@ More algorithms will be added as I continue learning and practicing machine lear
 
 Repository Structure
 Each algorithm is implemented in a separate Python file.
+```
 Machine-Learning-Algorithms/
 │
 ├── linearRegressionLAB1.py
@@ -37,6 +38,7 @@ Machine-Learning-Algorithms/
 ├── SVMcomparedToRegression.py
 │
 └── README.md
+```
 
 Technologies Used
 	•	Python
